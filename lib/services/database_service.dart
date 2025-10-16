@@ -124,7 +124,7 @@ class DatabaseService {
     final ferreterias = [
       {
         'id': 'f1',
-        'name': 'Ferretería El Constructor',
+        'name': 'Ferretería La Constructora Haylli',
         'address': 'Av. La Cultura 2345, Cusco',
         'latitude': -13.5226,
         'longitude': -71.9673,
@@ -133,7 +133,7 @@ class DatabaseService {
         'rating': 4.5,
         'reviewCount': 128,
         'openTime': '08:00',
-        'closeTime': '20:00',
+        'closeTime': '22:00',
         'isOpen': 1,
         'deliveryFee': 5.0,
         'estimatedDeliveryTime': 30,
